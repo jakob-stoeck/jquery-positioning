@@ -1,0 +1,10 @@
+#wrapper {
+  border: 1px solid black;
+  display: block;
+  background: #fff url(bg.png) 0 0 no-repeat;
+}
+
+#wrapper > div {
+  border: 1px solid red;
+  opacity: .8;
+}
